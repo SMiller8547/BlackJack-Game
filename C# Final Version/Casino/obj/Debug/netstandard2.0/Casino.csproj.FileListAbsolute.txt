@@ -1,0 +1,36 @@
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.csprojResolveAssemblyReference.cache
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\smill\OneDrive\Documents\Dropbox\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\C# Working Version\newtwentyoneGame\Casino\obj\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\C# Working Version\Casino\obj\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\Mr. Miller\Desktop\Dev\Tech Academy Notes\Other\C# BlackJack Game\C# Final Version\Casino\obj\Debug\netstandard2.0\Casino.pdb
